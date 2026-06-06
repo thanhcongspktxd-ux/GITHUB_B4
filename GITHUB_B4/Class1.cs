@@ -8,6 +8,6 @@ namespace GITHUB_B4
 {
     public class B4
     {
-
+        
     }
 }
