@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2F1BEBF6-F1CB-4BAF-9A03-EECE2130671D}</ProjectGuid>
+    <ProjectGuid>{8238C668-53E2-566A-F543-612271180D85}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>GITHUB_B4</RootNamespace>
